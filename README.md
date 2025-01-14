@@ -11,6 +11,7 @@ Welcome to the repository for **UChicago Genie**. This documentation will guide 
 5. [Project Structure](#project-structure)
 6. [Tools and Utilities](#tools-and-utilities)
 7. [List of Tools](#list-of-tools-questions-uchicago-genie-is-optimized-to-answer)
+8. [Neo4j Graph Schema](#neo4j-graph-schema)
 
 ---
 
@@ -78,6 +79,8 @@ This application uses **Xata** for database configuration and **Neo4j** for data
   - Username: `XXXX`
   - Password: `XXXXXXXXXXXXXX`
 
+Note that in order to run you need to have a database that respects the schema
+
 ## Project Structure
 
 Here's a quick overview of the directory structure:
@@ -133,3 +136,142 @@ This section provides a comprehensive list of the tools available in this reposi
 | **findSequenceDetails**                    | Provides detailed information about a specific sequence, including its description and associated courses. Ideal for queries about sequences.                                            | `department`, `userQuery`                                                                                                                                                               |
 | **findSpecificCoreSectionDetails**         | Offers detailed insights into a specific Core Curriculum section and the required courses for the section. Used when queries mention the "Core Curriculum" explicitly.                  | `sectionName`                                                                                                                                                                           |
 | **suggestCoreCourseBasedOnInterests**      | Suggests 20 courses or sequences from the Core Curriculum based on user interests or provides a general list. Filters by term and year when specified.                                      | `interests`, `termOffered`, `year`                                                                                                                                                      |
+
+## Neo4j Graph Schema
+
+#### Department Node
+```plaintext
+(d:Department {
+    name: $name,
+    departmentDescription: $departmentDescription
+})
+```
+
+#### Degree Track Node
+```plaintext
+(dt:DegreeTrack {
+    name: $name, 
+    type: $type,
+    department: $department,
+    totalUnits: $totalUnits,
+    description: $description
+})
+```
+
+#### Degree Section Node
+```plaintext
+(ds:DegreeSection {
+    name: $name,
+    description: $description
+})
+```
+
+#### Sequence Node
+```plaintext
+(s:Sequence {
+    name: $name,
+    id: $id,
+    description: $description
+})
+```
+
+#### Course Node
+```plaintext
+(c:Course {
+    name: $name,
+    id: $id,
+    description: $description,
+    notes: $notes,
+    prereqDescription: $prereqDescription
+})
+```
+
+#### Instructor Node
+```plaintext
+(i:Instructor {
+    nameSurname: $nameSurname,
+})
+```
+
+#### Course Section Node
+```plaintext
+(cs:CourseSection {
+    id: $id,
+    year: $year,
+    notes: $notes,
+    termOffered: $termOffered,
+    feedback: $feedback,
+    instructor: "$instructor"
+})
+```
+
+#### Schedule Node
+```plaintext
+(s:Schedule {
+    dayOfWeek: $dayOfWeek,
+    startTime: $startTime,
+    endTime: $endTime,
+    location: $location
+})
+```
+
+#### SubSchedule Node
+```plaintext
+(ss:SubSchedule {
+    dayOfWeek: $dayOfWeek,
+    startTime: $startTime,
+    endTime: $endTime,
+    location: $location
+})
+```
+
+### Relationships
+
+#### Department Relations
+- `(d:Department)-[:OFFERS]->(dt:DegreeTrack)`
+- `(d:Department)-[:OFFERS]->(c:Course)`
+- `(d:Department)-[:OFFERS]->(s:Sequence)`
+
+#### Degree Track Relations
+- `(dt:DegreeTrack)-[:HAS_SECTION]->(ds:DegreeSection)` with attribute `Total_units_required`
+- `(ds:DegreeSection)-[:REQUIRES]->(c:Course)`
+
+#### Course Relations
+- `(c:Course)-[:HAS_PREREQUISITE]->(c:Course)`
+- `(c:Course)-[:IS_SEQUENTIAL_TO]->(c:Course)`
+- `(c:Course)<-[:SECTION_OF]-(cs:CourseSection)`
+
+#### Sequence Relations
+- `(s:Sequence)<-[:SEQUENCE_OF]-(c:Course)`
+
+#### Course Section Relations
+- `(cs:CourseSection)-[:TAUGHT_BY]->(i:Instructor)`
+- `(cs:CourseSection)-[:HAS_SCHEDULE]->(s:Schedule)`
+- `(cs:CourseSection)-[:HAS_SUBSCHEDULE]->(ss:SubSchedule)`
+
+#### Additional Relations for Core and Biology Sections
+- `(ds:DegreeSection)-[:SECTION_SEQUENCE]->(s:Sequence)`
+- `(ds:DegreeSection).[HAS_SUBSECTION]->(ds:DegreeSubSection)`
+- `(ds:DegreeSubSection)-[:SUBSECTION_COURSE]->(c:Course)`
+- `(ds:DegreeSection)-[:SECTION_COURSE]->(c:Course)`
+- `(ds:DegreeSubSection)-[:SUBSECTION_SEQUENCE]->(s:Sequence)`
+- `(c: Course)-[BIOSECTION]->(bs: BioSection)`
+
+#### DegreeSubSection Node (for Core)
+```plaintext
+(dss: DegreeSubSection {
+    name: $name,
+    description: $description
+})
+```
+
+#### BioSection (for Biology)
+```plaintext
+(bs: BioSection {
+    section: $section,
+    name: $name,
+    description: $description,
+    instructor: $instructor,
+    terms: $quarters
+})
+```
