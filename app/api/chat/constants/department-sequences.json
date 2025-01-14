@@ -1,0 +1,1111 @@
+﻿[
+  {
+    "departmentName": "Anthropology",
+    "courses": [
+      [
+        "ANTH 20701-20702-20703",
+        "Introduction to African Civilization I-II-III"
+      ],
+      [
+        "ANTH 23101-23102-23103",
+        "Introduction to Latin American Civilization I-II-III"
+      ],
+      [
+        "ANTH 24001-24002-24003",
+        "Colonizations I-II-III"
+      ],
+      [
+        "ANTH 24101-24102",
+        "Introduction to the Civilizations of South Asia I-II"
+      ],
+      [
+        "ANTH 26710-26711",
+        "Ancient Landscapes I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Art History",
+    "courses": [
+      [
+        "ARTH 28500-28600",
+        "History of International Cinema I: Silent Era; History of International Cinema II: Sound Era to 1960"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Biological Sciences: Not Core",
+    "courses": [
+      [
+        "BIOS 26210-26211",
+        "Mathematical Methods for Biological Sciences I-II"
+      ],
+      [
+        "BIOS 27710-27711-27712-27713-27714-27715",
+        "Marine Biological Laboratory Semester in Environmental Science"
+      ],
+      [
+        "BIOS 27720-27723-27725-27726",
+        "September Courses at Marine Biological Laboratory, Woods Hole"
+      ],
+      [
+        "BIOS 27724-27750-27751",
+        "Biology Spring Quarter Courses at Marine Biological Laboratory"
+      ],
+      [
+        "BIOS 28101-28102",
+        "Science Communication"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Chemistry",
+    "courses": [
+      [
+        "CHEM 00111-00112-00113",
+        "Collaborative Learning in General Chemistry I-II-III"
+      ],
+      [
+        "CHEM 00220-00221-00222",
+        "Collaborative Learning in Organic Chemistry I-II-III"
+      ],
+      [
+        "CHEM 11100-11200-11300",
+        "Comprehensive General Chemistry I-II-III"
+      ],
+      [
+        "CHEM 12100-12200-12300",
+        "Honors General Chemistry I-II-III"
+      ],
+      [
+        "CHEM 20100-20200",
+        "Inorganic Chemistry I-II"
+      ],
+      [
+        "CHEM 22000-22100-22200",
+        "Organic Chemistry I-II-III"
+      ],
+      [
+        "CHEM 23000-23100-23200",
+        "Honors Organic Chemistry I-II-III"
+      ],
+      [
+        "CHEM 26100-26200-26300",
+        "Quantum Mechanics; Thermodynamics; Chemical Kinetics and Dynamics"
+      ],
+      [
+        "CHEM 33200-33300",
+        "Chemical Biology I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Cinema and Media Studies",
+    "courses": [
+      [
+        "CMST 28500-28600-28700",
+        "History of International Cinema I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Civilization Studies",
+    "courses": [
+      [
+        "CRES 24001-24002-24003",
+        "Colonizations I-II-III"
+      ],
+      [
+        "EALC 15411-15412-15413",
+        "East Asian Civilization I-II-III"
+      ],
+      [
+        "GNSE 15002-15003",
+        "Gender and Sexuality in World Civilizations I-II"
+      ],
+      [
+        "HIST 10101-10102-10103",
+        "Introduction to African Civilization I-II-III"
+      ],
+      [
+        "HIST 13001-13002-13003",
+        "History of European Civilization I-II-III"
+      ],
+      [
+        "HIST 13100-13200-13300",
+        "History of Western Civilization I-II-III"
+      ],
+      [
+        "HIST 13500-13600-13700",
+        "America in World Civilization I-II-III"
+      ],
+      [
+        "HIST 13900-14000-14100",
+        "Russia and Eurasia: Empires, Societies, Cultures I-II-III"
+      ],
+      [
+        "HIST 16700-16800-16900",
+        "Ancient Mediterranean World I-II-III"
+      ],
+      [
+        "HIST 17521-17522",
+        "Energy in World Civilizations"
+      ],
+      [
+        "HMRT 10100-10200",
+        "Human Rights in World Civilizations I-II"
+      ],
+      [
+        "LACS 16100-16200-16300",
+        "Introduction to Latin American Civilization I-II-III"
+      ],
+      [
+        "MUSI 12100-12200",
+        "Music in Western Civilization I-II"
+      ],
+      [
+        "NEHC 20001-20002-20003",
+        "Ancient Near Eastern History and Society I-II-III"
+      ],
+      [
+        "NEHC 20004-20005-20006",
+        "Ancient Near Eastern Thought and Literature I-II-III"
+      ],
+      [
+        "NEHC 20416-20417-20418",
+        "Semitic Languages, Cultures, and Civilizations I-II-III"
+      ],
+      [
+        "NEHC 20501-20502-20503",
+        "Islamic History and Society I-II-III"
+      ],
+      [
+        "NEHC 20601-20602-20603",
+        "Islamic Thought and Literature I-II-III"
+      ],
+      [
+        "SALC 20100-20200",
+        "Introduction to the Civilizations of South Asia I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Classical Studies",
+    "courses": [
+      [
+        "CLCV 20700-20800-20900",
+        "Ancient Mediterranean World I-II-III"
+      ],
+      [
+        "CLCV 25700-25800-25900",
+        "Ancient Empires I-II-III"
+      ],
+      [
+        "GREK 10100-10200-10300",
+        "Introduction to Attic Greek I-II-III"
+      ],
+      [
+        "GREK 20100-20200-20300",
+        "Intermediate Greek I-II-III"
+      ],
+      [
+        "LATN 10100-10200-10300",
+        "Introduction to Classical Latin I-II-III"
+      ],
+      [
+        "LATN 20100-20200-20300",
+        "Intermediate Latin I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Comparative Literature",
+    "courses": [
+      [
+        "CMLT 22400-22500",
+        "History of International Cinema I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Computer Science",
+    "courses": [
+      [
+        "CMSC 15100-15200",
+        "Introduction to Computer Science I-II"
+      ],
+      [
+        "CMSC 16100-16200",
+        "Honors Introduction to Computer Science I-II"
+      ],
+      [
+        "CMSC 12100-12200-12300",
+        "Computer Science with Applications I-II-III"
+      ],
+      [
+        "CMSC 27700-27800",
+        "Mathematical Logic I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Data Science",
+    "courses": [
+      [
+        "DATA 27100-27200",
+        "Data Science Clinic I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "East Asian Languages and Civilizations",
+    "courses": [
+      [
+        "EALC 15411-15412-15413",
+        "East Asian Civilization I-II-III"
+      ],
+      [
+        "CHIN 10100-10200-10300",
+        "Elementary Modern Chinese I-II-III"
+      ],
+      [
+        "CHIN 11100-11200-11300",
+        "First-Year Chinese for Bilingual Speakers I-II-III"
+      ],
+      [
+        "CHIN 20100-20200-20300",
+        "Intermediate Modern Chinese I-II-III"
+      ],
+      [
+        "CHIN 20401-20402-20403",
+        "Advanced Modern Chinese I-II-III"
+      ],
+      [
+        "CHIN 20501-20502-20503",
+        "Fourth-Year Modern Chinese I-II-III"
+      ],
+      [
+        "CHIN 20508-20509-20510",
+        "Readings in Literary Chinese I-II-III"
+      ],
+      [
+        "CHIN 20601-20602-20603",
+        "Fifth-Year Modern Chinese I-II-III"
+      ],
+      [
+        "CHIN 20701-20702-20703",
+        "Business Chinese I-II-III"
+      ],
+      [
+        "CHIN 20800-20900-21000",
+        "Elementary Literary Chinese I-II-III"
+      ],
+      [
+        "CHIN 22110-22120-22130",
+        "Second-Year Chinese for Heritage Students I-II-III"
+      ],
+      [
+        "CHIN 23110-23120-23130",
+        "Third-Year Chinese for Heritage Students I-II-III"
+      ],
+      [
+        "JAPN 10100-10200-10300",
+        "Elementary Modern Japanese I-II-III"
+      ],
+      [
+        "JAPN 20100-20200-20300",
+        "Intermediate Modern Japanese I-II-III"
+      ],
+      [
+        "JAPN 20401-20402-20403",
+        "Advanced Modern Japanese I-II-III"
+      ],
+      [
+        "JAPN 20500-20600-20700",
+        "Fourth-Year Modern Japanese I-II-III"
+      ],
+      [
+        "JAPN 21200-21300",
+        "Intermediate Modern Japanese through Japanimation I-II"
+      ],
+      [
+        "KORE 10100-10200-10300",
+        "Introduction to the Korean Language I-II-III"
+      ],
+      [
+        "KORE 20100-20200-20300",
+        "Intermediate Korean I-II-III"
+      ],
+      [
+        "KORE 20401-20402-20403",
+        "Advanced Korean I-II-III"
+      ],
+      [
+        "KORE 21100-21200-21300",
+        "Fourth-Year Modern Korean I-II-III"
+      ],
+      [
+        "EALC 29500-29600-29700",
+        "Senior Thesis Tutorial I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Economics",
+    "courses": [
+      [
+        "ECON 20000-20100-20200-20300",
+        "The Elements of Economic Analysis I-II-III-IV"
+      ],
+      [
+        "ECON 20010-20110-20210",
+        "The Elements of Economic Analysis: Honors I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "English Language and Literature",
+    "courses": [
+      [
+        "ENGL 29300-29600",
+        "History of International Cinema I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Environmental Studies",
+    "courses": [
+      [
+        "ENST 27521-27522",
+        "Energy in World Civilizations I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Gender Studies",
+    "courses": [
+      [
+        "GNSE 15002-15003",
+        "Gender and Sexuality in World Civilizations I-II"
+      ],
+      [
+        "GNSE 29800-29900",
+        "BA Seminar; BA Essay"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Germanic Studies",
+    "courses": [
+      [
+        "GRMN 10100-10200-10300",
+        "Elementary German for Beginners I-II-III"
+      ],
+      [
+        "GRMN 12001-12002-12003",
+        "Intensive German I-II-III"
+      ],
+      [
+        "GRMN 20100-20201-20301",
+        "Deutsche Maerchen; Grünes Deutschland; Kunst und Kultur"
+      ],
+      [
+        "GRMN 21103-21303-21403",
+        "Erzählen; Gedichte; Philosophie"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Global Studies",
+    "courses": [
+      [
+        "GLST 23101-23102",
+        "Global Studies I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "History",
+    "courses": [
+      [
+        "HIST 10101-10102-10103",
+        "Introduction to African Civilization I-II-III"
+      ],
+      [
+        "HIST 13001-13002-13003",
+        "History of European Civilization I-II-III"
+      ],
+      [
+        "HIST 13100-13200-13300",
+        "History of Western Civilization I-II-III"
+      ],
+      [
+        "HIST 13500-13600-13700",
+        "America in World Civilization I-II-III"
+      ],
+      [
+        "HIST 13900-14000-14100",
+        "Russia and Eurasia: Empires, Societies, Cultures I-II-III"
+      ],
+      [
+        "HIST 16700-16800-16900",
+        "Ancient Mediterranean World I-II-III"
+      ],
+      [
+        "HIST 17521-17522",
+        "Energy in World Civilizations"
+      ],
+      [
+        "HIST 10800-10900",
+        "Introduction to the Civilizations of South Asia I-II"
+      ],
+      [
+        "HIST 12700-12800",
+        "Music in Western Civilization I-II"
+      ],
+      [
+        "HIST 15411-15412-15413",
+        "East Asian Civilization I-II-III"
+      ],
+      [
+        "HIST 15602-15603-15604",
+        "Ancient Empires I-II-III"
+      ],
+      [
+        "HIST 15611-15612-15613",
+        "Islamicate Civilization I-II-III"
+      ],
+      [
+        "HIST 16101-16102-16103",
+        "Introduction to Latin American Civilization I-II-III"
+      ],
+      [
+        "HIST 18301-18302-18303",
+        "Colonizations I-II-III"
+      ],
+      [
+        "HIST 25704-25804-25904",
+        "Islamic History and Society I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Human Rights",
+    "courses": [
+      [
+        "HMRT 10100-10200",
+        "Human Rights in World Civilizations I-II"
+      ],
+      [
+        "HMRT 20101-20201-20301",
+        "Human Rights in Paris"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Humanities",
+    "courses": [
+      [
+        "HUMA 11000-11100-11200",
+        "Readings in World Literature I-II-III"
+      ],
+      [
+        "HUMA 11500-11600-11700",
+        "Philosophical Perspectives I-II-III"
+      ],
+      [
+        "HUMA 12050-12150-12250",
+        "Greece and Rome: Texts, Traditions, Transformations I-II-III"
+      ],
+      [
+        "HUMA 12300-12400-12500",
+        "Human Being and Citizen I-II-III"
+      ],
+      [
+        "HUMA 13500-13600-13700",
+        "Introduction to the Humanities I-II-III"
+      ],
+      [
+        "HUMA 14000-14100-14200",
+        "Reading Cultures: Collection, Travel, Exchange I-II-III"
+      ],
+      [
+        "HUMA 16000-16100-16200",
+        "Media Aesthetics: Image, Text, Sound I-II-III"
+      ],
+      [
+        "HUMA 17000-17100-17200",
+        "Language and the Human I-II-III"
+      ],
+      [
+        "HUMA 18000-18100-18200",
+        "Poetry and the Human I-II-III"
+      ],
+      [
+        "HUMA 20710-20711-20712-20713",
+        "At the Piano I-II-III-IV"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Jewish Studies",
+    "courses": [
+      [
+        "JWSC 20300-20400-20500",
+        "Elementary Yiddish I-II-III"
+      ],
+      [
+        "JWSC 22000-22100-22200",
+        "Elementary Classical Hebrew I-II-III"
+      ],
+      [
+        "JWSC 22300-22400-22500",
+        "Intermediate Classical Hebrew I-II-III"
+      ],
+      [
+        "JWSC 25000-25100-25200",
+        "Introductory Modern Hebrew I-II-III"
+      ],
+      [
+        "JWSC 25300-25400-25500",
+        "Intermediate Modern Hebrew I-II-III"
+      ],
+      [
+        "JWSC 25600-25700-25800",
+        "Advanced Modern Hebrew I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Latin American Studies",
+    "courses": [
+      [
+        "LACS 16100-16200-16300",
+        "Introduction to Latin American Civilization I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Linguistics",
+    "courses": [
+      [
+        "ASLG 10100-10200-10300",
+        "American Sign Language I-II-III"
+      ],
+      [
+        "ASLG 10400-10500-10600",
+        "Intermediate American Sign Language I-II-III"
+      ],
+      [
+        "MOGK 10100-10200-10300",
+        "Elementary Modern Greek I-II-III"
+      ],
+      [
+        "MOGK 20100-20200-20300",
+        "Intermediate Modern Greek I-II-III"
+      ],
+      [
+        "SWAH 25200-25300-25400",
+        "Swahili I-II-III"
+      ],
+      [
+        "SWAH 26800-26900-27000",
+        "Intermediate Swahili I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Mathematics",
+    "courses": [
+      [
+        "MATH 11200-11300",
+        "Studies in Mathematics I-II"
+      ],
+      [
+        "MATH 13100-13200-13300",
+        "Elementary Functions and Calculus I-II-III"
+      ],
+      [
+        "MATH 15100-15200-15300",
+        "Calculus I-II-III"
+      ],
+      [
+        "MATH 16100-16200-16300",
+        "Honors Calculus I-II-III"
+      ],
+      [
+        "MATH 16110-16210-16310",
+        "Honors Calculus I (IBL); Honors Calculus II (IBL); Honors Calculus III (IBL)"
+      ],
+      [
+        "MATH 18300-18400-18500-18600",
+        "Mathematical Methods in the Physical Sciences I-II-III-IV"
+      ],
+      [
+        "MATH 20300-20400-20500",
+        "Analysis in Rn I-II-III"
+      ],
+      [
+        "MATH 20310-20410-20510",
+        "Analysis in Rn I (accelerated); Analysis in Rn II (accelerated); Analysis in Rn III (accelerated)"
+      ],
+      [
+        "MATH 20320-20420-20520",
+        "Analysis in Rn I-II-III (IBL)"
+      ],
+      [
+        "MATH 20700-20800-20900",
+        "Honors Analysis in Rn I-II-III"
+      ],
+      [
+        "MATH 25400-25500",
+        "Basic Algebra I-II"
+      ],
+      [
+        "MATH 25700-25800-25900",
+        "Honors Basic Algebra I-II-III"
+      ],
+      [
+        "MATH 27700-27800",
+        "Mathematical Logic I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Molecular Engineering",
+    "courses": [
+      [
+        "MENG 21100-21200",
+        "Principles of Engineering Analysis I and II"
+      ],
+      [
+        "MENG 21800-21900",
+        "Engineering Design"
+      ],
+      [
+        "MENG 26100-26110",
+        "Intermediate Quantum Engineering I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Music",
+    "courses": [
+      [
+        "MUSI 12100-12200",
+        "Music in Western Civilization I-II"
+      ],
+      [
+        "MUSI 15100-15200-15300",
+        "Harmony and Voice Leading"
+      ],
+      [
+        "MUSI 27100-27200-27300",
+        "Topics in the History of Western Music I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Near Eastern Languages and Civilizations",
+    "courses": [
+      [
+        "NEHC 20004-20005-20006",
+        "Ancient Near Eastern Thought and Literature I-II-III"
+      ],
+      [
+        "NEHC 20601-20602-20603",
+        "Islamic Thought and Literature I-II-III"
+      ],
+      [
+        "AANL 10101-10102-10103",
+        "Elementary Hittite I-II-III"
+      ],
+      [
+        "ARAB 10101-10102-10103",
+        "Elementary Arabic I-II-III"
+      ],
+      [
+        "ARAB 20101-20102-20103",
+        "Intermediate Arabic I-II-III"
+      ],
+      [
+        "HEBR 10101-10102-10103",
+        "Elementary Classical Hebrew I-II-III"
+      ],
+      [
+        "HEBR 10501-10502-10503",
+        "Introductory Modern Hebrew I-II-III"
+      ],
+      [
+        "HEBR 20104-20105-20106",
+        "Intermediate Classical Hebrew I-II-III"
+      ],
+      [
+        "HEBR 20501-20502-20503",
+        "Intermediate Modern Hebrew I-II-III"
+      ],
+      [
+        "NEAA 20061-20062",
+        "Ancient Landscapes I-II"
+      ],
+      [
+        "PERS 10101-10102-10103",
+        "Elementary Persian I-II-III"
+      ],
+      [
+        "PERS 20101-20102-20103",
+        "Intermediate Persian I-II-III"
+      ],
+      [
+        "TURK 10101-10102-10103",
+        "Elementary Turkish I-II-III"
+      ],
+      [
+        "TURK 20101-20102-20103",
+        "Intermediate Turkish I-II-III"
+      ],
+      [
+        "UGAR 20101-20102-20103",
+        "Ugaritic I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Norwegian Studies",
+    "courses": [
+      [
+        "NORW 10100-10200-10300",
+        "First-Year Norwegian I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Physics",
+    "courses": [
+      [
+        "PHYS 12100-12200-12300",
+        "General Physics I-II-III"
+      ],
+      [
+        "PHYS 13100-13200-13300",
+        "Mechanics; Electricity and Magnetism; Waves, Optics, and Heat"
+      ],
+      [
+        "PHYS 14100-14200-14300",
+        "Honors Mechanics; Honors Electricity and Magnetism; Honors Waves, Optics, and Heat"
+      ],
+      [
+        "PHYS 21101-21102-21103",
+        "Experimental Physics I-II-III"
+      ],
+      [
+        "PHYS 22500-22700",
+        "Intermediate Electricity and Magnetism I-II"
+      ],
+      [
+        "PHYS 23410-23510-24310",
+        "Quantum Mechanics I-II-III"
+      ],
+      [
+        "PHYS 29100-29200-29300",
+        "Bachelor's Thesis I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Religious Studies",
+    "courses": [
+      [
+        "RLST 15100-15200-15300",
+        "Introductory Qur'anic Arabic I-II-III"
+      ],
+      [
+        "RLST 20401-20402-20403",
+        "Islamic Thought and Literature I-II-III"
+      ],
+      [
+        "RLST 22010-22011-22012",
+        "Jewish Civilization I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Romance Languages and Literatures",
+    "courses": [
+      [
+        "BASQ 12000-12100-12200",
+        "Elementary Basque I-II-III"
+      ],
+      [
+        "CATA 12200-12300",
+        "Catalan for Speakers of Romance Languages I-II"
+      ],
+      [
+        "FREN 10100-10200-10300",
+        "Beginning Elementary French I-II-III"
+      ],
+      [
+        "FREN 12001-12002-12003",
+        "Intensive French I-II-III"
+      ],
+      [
+        "FREN 20100-20200-20300",
+        "French Language, History, and Culture I-II-III"
+      ],
+      [
+        "ITAL 10100-10200-10300",
+        "Beginning Elementary Italian I-II-III"
+      ],
+      [
+        "ITAL 20100-20200-20300",
+        "Italian Language, History, and Culture I-II-III"
+      ],
+      [
+        "PORT 10100-10200-10300",
+        "Beginning Elementary Portuguese I-II-III"
+      ],
+      [
+        "PORT 20100-20200",
+        "Intermediate Portuguese; Advanced Portuguese"
+      ],
+      [
+        "SPAN 10100-10200-10300",
+        "Beginning Elementary Spanish I-II-III"
+      ],
+      [
+        "SPAN 12001-12002-12003",
+        "Intensive Spanish I-II-III"
+      ],
+      [
+        "SPAN 20100-20200-20300",
+        "Spanish Language, History, and Culture I-II-III"
+      ],
+      [
+        "SPAN 20102-20302",
+        "Language, History, and Culture for Heritage Speakers I-II-III"
+      ],
+      [
+        "SPAN 20401-20501",
+        "Gramática avanzada y cultura contemporánea para la argumentación I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Slavic Languages and Literatures",
+    "courses": [
+      [
+        "BCSN 10103-10203-10303",
+        "First-Year Bosnian/Croatian/Serbian I-II-III"
+      ],
+      [
+        "BCSN 20103-20203-20303",
+        "Second-Year Bosnian/Croatian/Serbian I-II-III"
+      ],
+      [
+        "CZEC 10103-10203-10303",
+        "First-Year Czech I-II-III"
+      ],
+      [
+        "POLI 10103-10203-10303",
+        "First-Year Polish I-II-III"
+      ],
+      [
+        "POLI 20103-20203-20303",
+        "Second-Year Polish I-II-III"
+      ],
+      [
+        "REES 26011-26012-26015",
+        "Introduction to Russian Civilization I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Social Sciences",
+    "courses": [
+      [
+        "SOSC 11400-11500-11600",
+        "Power, Identity, Resistance I-II-III"
+      ],
+      [
+        "SOSC 12400-12500-12600",
+        "Self, Culture, and Society I-II-III"
+      ],
+      [
+        "SOSC 13100-13200-13300",
+        "Social Science Inquiry I-II-III"
+      ],
+      [
+        "SOSC 13110-13210-13310",
+        "Social Science Inquiry: Formal Theory"
+      ],
+      [
+        "SOSC 13120-13220-13320",
+        "Social Science Inquiry: Spatial Analysis"
+      ],
+      [
+        "SOSC 14100-14200-14300",
+        "Mind I-II-III"
+      ],
+      [
+        "SOSC 15100-15200-15300",
+        "Classics of Social and Political Thought I-II-III"
+      ],
+      [
+        "SOSC 16100-16200-16300",
+        "Global Society I-II-III"
+      ],
+      [
+        "SOSC 17100-17200-17300",
+        "Religion: Cosmos, Conscience, and Community I-II-III"
+      ],
+      [
+        "SOSC 18400-18500-18600",
+        "Democracy: Equality, Liberty, and the Dilemmas of Self-Government I-II-III"
+      ],
+      [
+        "SOSC 19073-19074-19075",
+        "Jewish Civilization in Vienna-I-II-III"
+      ],
+      [
+        "SOSC 19076-19077-19078",
+        "Migration, Decolonization and Diaspora Civilization"
+      ],
+      [
+        "SOSC 21100-21200",
+        "Music in Western Civilization I-II"
+      ],
+      [
+        "SOSC 21700-21800-21900",
+        "Introduction to Linguistics I-II-III"
+      ],
+      [
+        "SOSC 22000-22100-22200",
+        "Islamic Thought and Literature I-II-III"
+      ],
+      [
+        "SOSC 23000-23100",
+        "Introduction to the Civilizations of South Asia I-II"
+      ],
+      [
+        "SOSC 24000-24100-24200",
+        "Introduction to Russian Civilization I-II-III"
+      ],
+      [
+        "SOSC 24001-24002-24003",
+        "Colonizations I-II-III"
+      ],
+      [
+        "SOSC 26100-26200-26300",
+        "Introduction to Latin American Civilization I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "South Asian Languages and Civilizations",
+    "courses": [
+      [
+        "SALC 20100-20200",
+        "Introduction to the Civilizations of South Asia I-II"
+      ],
+      [
+        "BANG 10100-10200-10300",
+        "First-Year Bangla (Bengali) I-II-III"
+      ],
+      [
+        "BANG 20100-20200-20300",
+        "Second-Year Bangla (Bengali) I-II-III"
+      ],
+      [
+        "HIND 10100-10200-10300",
+        "First-Year Hindi I-II-III"
+      ],
+      [
+        "HIND 20100-20200-20300",
+        "Second-Year Hindi I-II-III"
+      ],
+      [
+        "MARA 10100-10200-10300",
+        "First-Year Marathi I-II-III"
+      ],
+      [
+        "MARA 20100-20200-20300",
+        "Second-Year Marathi I-II-III"
+      ],
+      [
+        "SANS 10100-10200-10300",
+        "First-Year Sanskrit I-II-III"
+      ],
+      [
+        "SANS 20100-20200-20300",
+        "Second-Year Sanskrit I-II-III"
+      ],
+      [
+        "SALC 29800-29801-29802",
+        "BA Paper I-II-III"
+      ],
+      [
+        "TAML 10100-10200-10300",
+        "First-Year Tamil I-II-III"
+      ],
+      [
+        "TAML 20100-20200-20300",
+        "Second-Year Tamil I-II-III"
+      ],
+      [
+        "TBTN 10100-10200-10300",
+        "First-Year Tibetan I-II-III"
+      ],
+      [
+        "TBTN 20100-20200-20300",
+        "Second-Year Tibetan I-II-III"
+      ],
+      [
+        "URDU 10100-10200-10300",
+        "First-Year Urdu I-II-III"
+      ],
+      [
+        "URDU 20100-20200-20300",
+        "Second-Year Urdu I-II-III"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Statistics",
+    "courses": [
+      [
+        "STAT 11800-11900",
+        "Introduction to Data Science I-II"
+      ],
+      [
+        "STAT 24400-24500",
+        "Statistical Theory and Methods I-II"
+      ],
+      [
+        "STAT 24410-24510",
+        "Statistical Theory and Methods Ia-IIa"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Visual Arts",
+    "courses": [
+      [
+        "ARTV 20002-20003",
+        "History of International Cinema I: Silent Era; History of International Cinema II: Sound Era to 1960"
+      ],
+      [
+        "ARTV 22000-22002",
+        "Introduction to Painting I-II"
+      ]
+    ]
+  },
+  {
+    "departmentName": "Yiddish",
+    "courses": [
+      [
+        "YDDH 10100-10200-10300",
+        "Elementary Yiddish for Beginners I-II-III"
+      ]
+    ]
+  }
+]

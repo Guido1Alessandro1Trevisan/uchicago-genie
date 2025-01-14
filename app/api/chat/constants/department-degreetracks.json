@@ -1,0 +1,499 @@
+[
+        {
+          "name": "Anthropology",
+          "degreeTracks": [
+            "BA",
+            "Minor in Anthropology"
+          ]
+        },
+        {
+          "name": "Architectural Studies",
+          "degreeTracks": [
+            "Minor in Architectural Studies"
+          ]
+        },
+        {
+          "name": "Art History",
+          "degreeTracks": [
+            "BA",
+            "BA with Honors",
+            "Minor in Art History"
+          ]
+        },
+        {
+          "name": "Astronomy and Astrophysics",
+          "degreeTracks": [
+            "BA in Astrophysics",
+            "BS in Astrophysics",
+            "Minor in Astronomy and Astrophysics"
+          ]
+        },
+        {
+          "name": "Biological Chemistry",
+          "degreeTracks": [
+            "BS"
+          ]
+        },
+        {
+          "name": "Biological Sciences: Not Core",
+          "degreeTracks": [
+            "BA",
+            "BS",
+            "Minor in Biological Sciences"
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "degreeTracks": [
+            "BA",
+            "ACS-Accredited BS",
+            "BS with Specialized Track",
+            "Minor in Chemistry"
+          ]
+        },
+        {
+          "name": "Cinema and Media Studies",
+          "degreeTracks": [
+            "BA",
+            "Minor"
+          ]
+        },
+        {
+          "name": "Classical Studies",
+          "degreeTracks": [
+            "BA in Classical Studies - Language and Literature Variant",
+            "BA in Classical Studies - Language Intensive Variant",
+            "BA in Classical Studies - Greek and Roman Cultures Variant",
+            "Minor in Classical Studies"
+          ]
+        },
+        {
+          "name": "Cognitive Science",
+          "degreeTracks": [
+            "BA in Cognitive Science",
+            "Minor in Cognitive Science"
+          ]
+        },
+        {
+          "name": "Comparative Human Development",
+          "degreeTracks": [
+            "BA"
+          ]
+        },
+        {
+          "name": "Comparative Literature",
+          "degreeTracks": [
+            "BA"
+          ]
+        },
+        {
+          "name": "Committee on African American Studies",
+          "degreeTracks": [
+            "BS"
+          ]
+        },
+        {
+          "name": "Computational Social Science",
+          "degreeTracks": [
+            "Minor in Computational Social Science"
+          ]
+        },
+        {
+          "name": "Computer Science",
+          "degreeTracks": [
+            "BA",
+            "BS",
+            "Computer Science Minor"
+          ]
+        },
+        {
+          "name": "Creative Writing",
+          "degreeTracks": [
+            "BA in Creative Writing",
+            "Minor in English and Creative Writing"
+          ]
+        },
+        {
+          "name": "Comparative Race and Ethnic Studies",
+          "degreeTracks": [
+            "BA"
+          ]
+        },
+        {
+          "name": "Data Science",
+          "degreeTracks": [
+            "BA",
+            "BS",
+            "Minor"
+          ]
+        },
+        {
+          "name": "Democracy Studies",
+          "degreeTracks": [
+            "Democracy Studies"
+          ]
+        },
+        {
+          "name": "Digital Studies",
+          "degreeTracks": [
+            "Minor in Digital Studies of Language, Culture, and History"
+          ]
+        },
+        {
+          "name": "East Asian Languages and Civilizations",
+          "degreeTracks": [
+            "BA",
+            "Minor in East Asian Languages and Civilizations"
+          ]
+        },
+        {
+          "name": "Economics",
+          "degreeTracks": [
+            "BA in Economics: Standard Track",
+            "BA in Economics with Specialization in Business Economics",
+            "BA in Economics with Specialization in Data Science"
+          ]
+        },
+        {
+          "name": "Education and Society",
+          "degreeTracks": [
+            "Minor in Education and Society"
+          ]
+        },
+        {
+          "name": "English Language and Literature",
+          "degreeTracks": [
+            "BA",
+            "Minor in English and Creative Writing"
+          ]
+        },
+        {
+          "name": "Environmental Science",
+          "degreeTracks": [
+            "BS"
+          ]
+        },
+        {
+          "name": "Environmental Studies",
+          "degreeTracks": [
+            "BA",
+            "Environmental and Urban Studies Minor"
+          ]
+        },
+        {
+          "name": "Committee on Geographical Sciences",
+          "degreeTracks": [
+            "BA",
+            "Minor"
+          ]
+        },
+        {
+          "name": "Fundamentals Issues and Texts",
+          "degreeTracks": [
+            "BA"
+          ]
+        },
+        {
+          "name": "Gender Studies",
+          "degreeTracks": [
+            "BA",
+            "Minor in Gender and Sexuality Studies"
+          ]
+        },
+        {
+          "name": "Geographical Studies",
+          "degreeTracks": [
+            "Minor in Geographic Information Science"
+          ]
+        },
+        {
+          "name": "Geophysical Sciences",
+          "degreeTracks": [
+            "BA",
+            "BS"
+          ]
+        },
+        {
+          "name": "Germanic Studies",
+          "degreeTracks": [
+            "BA in Germanic Studies",
+            "Minor in Germanic Studies",
+            "Minor in Business German"
+          ]
+        },
+        {
+          "name": "Global Studies",
+          "degreeTracks": [
+            "BA",
+            "BA with Honors"
+          ]
+        },
+        {
+          "name": "Health and Society",
+          "degreeTracks": [
+            "Health and Society"
+          ]
+        },
+        {
+          "name": "History",
+          "degreeTracks": [
+            "BA",
+            "Minor in History"
+          ]
+        },
+        {
+          "name": "History Philosophy and Social Studies of Science and Medicine",
+          "degreeTracks": [
+            "BA",
+            "Minor in HIPS"
+          ]
+        },
+        {
+          "name": "Human Rights",
+          "degreeTracks": [
+            "BA",
+            "Minor in Human Rights"
+          ]
+        },
+        {
+          "name": "Inequality and Social Change",
+          "degreeTracks": [
+            "Minor in Inequality, Social Problems, and Change"
+          ]
+        },
+        {
+          "name": "Inquiry and Research in the Humanities",
+          "degreeTracks": [
+            "BA"
+          ]
+        },
+        {
+          "name": "Jewish Studies",
+          "degreeTracks": [
+            "BA",
+            "Minor in Jewish Studies"
+          ]
+        },
+        {
+          "name": "Latin American Studies",
+          "degreeTracks": [
+            "BA",
+            "Minor"
+          ]
+        },
+        {
+          "name": "Law Letters and Society",
+          "degreeTracks": [
+            "BA"
+          ]
+        },
+        {
+          "name": "Linguistics",
+          "degreeTracks": [
+            "BA",
+            "Minor in Linguistics"
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "degreeTracks": [
+            "BA",
+            "BS",
+            "BS in Applied Mathematics",
+            "BS in Mathematics with Specialization in Economics",
+            "Minor in Mathematics"
+          ]
+        },
+        {
+          "name": "Media Arts and Design",
+          "degreeTracks": [
+            "Major in Media Arts and Design",
+            "Minor in Media Arts and Design"
+          ]
+        },
+        {
+          "name": "Medieval Studies",
+          "degreeTracks": [
+            "BA",
+            "Minor in Medieval Studies"
+          ]
+        },
+        {
+          "name": "Molecular Engineering",
+          "degreeTracks": [
+            "BS in Molecular Engineering",
+            "Minor in Quantum Information Science",
+            "Minor in Molecular, Cellular, and Tissue Engineering",
+            "Minor in Immunoengineering",
+            "Minor in Systems Bioengineering",
+            "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+            "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+            "Minor in Computational Molecular Engineering",
+            "Minor in Molecular Engineering",
+            "Minor in Molecular Engineering Technology and Innovation"
+          ]
+        },
+        {
+          "name": "Music",
+          "degreeTracks": [
+            "BA",
+            "Minor in Music"
+          ]
+        },
+        {
+          "name": "Near Eastern Languages and Civilizations",
+          "degreeTracks": [
+            "BA",
+            "Minor"
+          ]
+        },
+        {
+          "name": "Neuroscience",
+          "degreeTracks": [
+            "BA",
+            "BS",
+            "BS with Honors",
+            "Minor in Neuroscience",
+            "Minor in Computational Neuroscience"
+          ]
+        },
+        {
+          "name": "Norwegian Studies",
+          "degreeTracks": [
+            "Minor in Norwegian Studies"
+          ]
+        },
+        {
+          "name": "Philosophy",
+          "degreeTracks": [
+            "BA",
+            "BA Intensive Track",
+            "BA Philosophy and Allied Fields",
+            "Minor in Philosophy"
+          ]
+        },
+        {
+          "name": "Physics",
+          "degreeTracks": [
+            "BA",
+            "BS",
+            "Minor in Physics"
+          ]
+        },
+        {
+          "name": "Political Science",
+          "degreeTracks": [
+            "BA"
+          ]
+        },
+        {
+          "name": "Psychology",
+          "degreeTracks": [
+            "BA"
+          ]
+        },
+        {
+          "name": "Public Policy Studies",
+          "degreeTracks": [
+            "BA"
+          ]
+        },
+        {
+          "name": "Quantitative Social Analysis",
+          "degreeTracks": [
+            "Minor in Quantitative Social Analysis"
+          ]
+        },
+        {
+          "name": "Race Development and Inequality",
+          "degreeTracks": [
+            "BA",
+            "Minor in Race, Diaspora, and Indigeneity"
+          ]
+        },
+        {
+          "name": "Religious Studies",
+          "degreeTracks": [
+            "BA",
+            "BA Research Track",
+            "Minor in Religious Studies"
+          ]
+        },
+        {
+          "name": "Renaissance Studies",
+          "degreeTracks": [
+            "Minor in Renaissance Studies"
+          ]
+        },
+        {
+          "name": "Romance Languages and Literatures",
+          "degreeTracks": [
+            "BA in French and Francophone Studies",
+            "Minor in French and Francophone Studies",
+            "BA in Italian Studies",
+            "Minor in Italian Studies",
+            "BA in Spanish Language, Literature, and Culture",
+            "BA in Latin American and Iberian Languages, Literatures, and Cultures",
+            "Minor in Catalan",
+            "Minor in Portuguese",
+            "Minor in Spanish",
+            "BA in Romance Languages, Literatures, and Cultures (Multiple Languages)",
+            "Minor in Romance Languages, Literatures, and Cultures (Multiple Languages)"
+          ]
+        },
+        {
+          "name": "Slavic Languages and Literatures",
+          "degreeTracks": [
+            "BA in Russian and East European Studies",
+            "Minor in Russian and East European Studies"
+          ]
+        },
+        {
+          "name": "Science Communication and Public Discourse",
+          "degreeTracks": [
+            "Minor in Science Communication and Public Discourse"
+          ]
+        },
+        {
+          "name": "Sociology",
+          "degreeTracks": [
+            "BA"
+          ]
+        },
+        {
+          "name": "South Asian Languages and Civilizations",
+          "degreeTracks": [
+            "BA",
+            "Minor"
+          ]
+        },
+        {
+          "name": "Statistics",
+          "degreeTracks": [
+            "BA",
+            "BS",
+            "Minor in Statistics"
+          ]
+        },
+        {
+          "name": "Theater and Performance Studies",
+          "degreeTracks": [
+            "BA",
+            "Minor in Theater and Performance Studies"
+          ]
+        },
+        {
+          "name": "Visual Arts",
+          "degreeTracks": [
+            "BA",
+            "Studio Track",
+            "Minor in Visual Arts"
+          ]
+        },
+        {
+          "name": "Yiddish",
+          "degreeTracks": [
+            "Minor in Yiddish Studies"
+          ]
+        }
+      ]

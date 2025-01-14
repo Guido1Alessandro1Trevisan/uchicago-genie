@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Guido1Alessandro1Trevisan-s-workspace-ic2bsb.us-east-1.xata.sh/db/uofcatalog",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

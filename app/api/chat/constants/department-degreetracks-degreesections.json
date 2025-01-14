@@ -1,0 +1,1964 @@
+[
+          {
+            "name": "Anthropology",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Introductory and Topical Courses",
+                  "Anthropological Theory",
+                  "Methods Course",
+                  "Anthropology Electives",
+                  "Introductory or Theory Course"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Anthropology",
+                "degreeSections": [
+                  "Introductory and Topical Courses",
+                  "Anthropological Theory",
+                  "Methods Course",
+                  "Anthropology Electives",
+                  "Introductory or Theory Course"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Architectural Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Minor in Architectural Studies",
+                "degreeSections": [
+                  "ARTH Courses on Built Environment",
+                  "Additional Courses on Built Environment"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Art History",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Distribution Requirement",
+                  "Methods Seminar",
+                  "Senior Thesis Workshop"
+                ]
+              },
+              {
+                "degreeTrack": "BA with Honors",
+                "degreeSections": [
+                  "Distribution Requirement",
+                  "Methods Seminar",
+                  "Senior Thesis Workshop"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Art History",
+                "degreeSections": [
+                  "Distribution Requirement",
+                  "Methods Seminar",
+                  "Senior Thesis Workshop"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Astronomy and Astrophysics",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA in Astrophysics",
+                "degreeSections": [
+                  "General Education",
+                  "Core Astrophysics Courses",
+                  "Electives",
+                  "Introductory Courses"
+                ]
+              },
+              {
+                "degreeTrack": "BS in Astrophysics",
+                "degreeSections": [
+                  "General Education",
+                  "Core Astrophysics Courses",
+                  "Electives",
+                  "Introductory Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Astronomy and Astrophysics",
+                "degreeSections": [
+                  "General Education",
+                  "Core Astrophysics Courses",
+                  "Electives",
+                  "Introductory Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Biological Chemistry",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BS",
+                "degreeSections": [
+                  "General Chemistry Sequence",
+                  "Calculus Sequence",
+                  "Biological Sciences Fundamentals",
+                  "Advanced Chemistry Requirements"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Biological Sciences: Not Core",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Biology Track",
+                  "Fundamentals in Biological Sciences Sequence",
+                  "Health Professions Preparation Sequence",
+                  "General Education Sequence for Non-Majors"
+                ]
+              },
+              {
+                "degreeTrack": "BS",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Biology Track",
+                  "Fundamentals in Biological Sciences Sequence",
+                  "Health Professions Preparation Sequence",
+                  "General Education Sequence for Non-Majors"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Biological Sciences",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Biology Track",
+                  "Fundamentals in Biological Sciences Sequence",
+                  "Health Professions Preparation Sequence",
+                  "General Education Sequence for Non-Majors"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Chemistry",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "General Chemistry Sequence",
+                  "Calculus Sequence",
+                  "Advanced General Chemistry",
+                  "Mathematical Methods",
+                  "Physics Sequence",
+                  "Inorganic Chemistry",
+                  "Organic Chemistry Sequence",
+                  "Physical Chemistry Sequence",
+                  "Advanced Chemistry Electives",
+                  "Organometallic or Materials Chemistry",
+                  "Chemical Biology",
+                  "Foundational Courses",
+                  "Physical Chemistry Track",
+                  "Organic Chemistry Track",
+                  "Inorganic Chemistry Track",
+                  "Materials Chemistry Track",
+                  "Chemical Biology Track",
+                  "Chemistry Electives"
+                ]
+              },
+              {
+                "degreeTrack": "ACS-Accredited BS",
+                "degreeSections": [
+                  "General Chemistry Sequence",
+                  "Calculus Sequence",
+                  "Advanced General Chemistry",
+                  "Mathematical Methods",
+                  "Physics Sequence",
+                  "Inorganic Chemistry",
+                  "Organic Chemistry Sequence",
+                  "Physical Chemistry Sequence",
+                  "Advanced Chemistry Electives",
+                  "Organometallic or Materials Chemistry",
+                  "Chemical Biology",
+                  "Foundational Courses",
+                  "Physical Chemistry Track",
+                  "Organic Chemistry Track",
+                  "Inorganic Chemistry Track",
+                  "Materials Chemistry Track",
+                  "Chemical Biology Track",
+                  "Chemistry Electives"
+                ]
+              },
+              {
+                "degreeTrack": "BS with Specialized Track",
+                "degreeSections": [
+                  "General Chemistry Sequence",
+                  "Calculus Sequence",
+                  "Advanced General Chemistry",
+                  "Mathematical Methods",
+                  "Physics Sequence",
+                  "Inorganic Chemistry",
+                  "Organic Chemistry Sequence",
+                  "Physical Chemistry Sequence",
+                  "Advanced Chemistry Electives",
+                  "Organometallic or Materials Chemistry",
+                  "Chemical Biology",
+                  "Foundational Courses",
+                  "Physical Chemistry Track",
+                  "Organic Chemistry Track",
+                  "Inorganic Chemistry Track",
+                  "Materials Chemistry Track",
+                  "Chemical Biology Track",
+                  "Chemistry Electives"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Chemistry",
+                "degreeSections": [
+                  "General Chemistry Sequence",
+                  "Calculus Sequence",
+                  "Advanced General Chemistry",
+                  "Mathematical Methods",
+                  "Physics Sequence",
+                  "Inorganic Chemistry",
+                  "Organic Chemistry Sequence",
+                  "Physical Chemistry Sequence",
+                  "Advanced Chemistry Electives",
+                  "Organometallic or Materials Chemistry",
+                  "Chemical Biology",
+                  "Foundational Courses",
+                  "Physical Chemistry Track",
+                  "Organic Chemistry Track",
+                  "Inorganic Chemistry Track",
+                  "Materials Chemistry Track",
+                  "Chemical Biology Track",
+                  "Chemistry Electives"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cinema and Media Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Introduction to Film Analysis",
+                  "History of International Cinema",
+                  "Electives in Cinema and Media Studies",
+                  "Advanced Seminar",
+                  "Intensive Track - Written Thesis Workshop",
+                  "Intensive Track - Production Thesis Workshop"
+                ]
+              },
+              {
+                "degreeTrack": "Minor",
+                "degreeSections": [
+                  "Introduction to Film Analysis",
+                  "History of International Cinema",
+                  "Electives in Cinema and Media Studies",
+                  "Advanced Seminar",
+                  "Intensive Track - Written Thesis Workshop",
+                  "Intensive Track - Production Thesis Workshop"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Classical Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA in Classical Studies - Language and Literature Variant",
+                "degreeSections": [
+                  "Greek or Latin Language Courses",
+                  "Classical Civilization Courses",
+                  "Senior Seminar",
+                  "Elementary Language Courses"
+                ]
+              },
+              {
+                "degreeTrack": "BA in Classical Studies - Language Intensive Variant",
+                "degreeSections": [
+                  "Greek or Latin Language Courses",
+                  "Classical Civilization Courses",
+                  "Senior Seminar",
+                  "Elementary Language Courses"
+                ]
+              },
+              {
+                "degreeTrack": "BA in Classical Studies - Greek and Roman Cultures Variant",
+                "degreeSections": [
+                  "Greek or Latin Language Courses",
+                  "Classical Civilization Courses",
+                  "Senior Seminar",
+                  "Elementary Language Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Classical Studies",
+                "degreeSections": [
+                  "Greek or Latin Language Courses",
+                  "Classical Civilization Courses",
+                  "Senior Seminar",
+                  "Elementary Language Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cognitive Science",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA in Cognitive Science",
+                "degreeSections": [
+                  "Introductory Courses",
+                  "Formal Foundations Courses",
+                  "Core Discipline Courses",
+                  "Extra-Disciplinary Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Cognitive Science",
+                "degreeSections": [
+                  "Introductory Courses",
+                  "Formal Foundations Courses",
+                  "Core Discipline Courses",
+                  "Extra-Disciplinary Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Comparative Human Development",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Core Courses",
+                  "Methods",
+                  "Electives"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Comparative Literature",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Language Proficiency",
+                  "Comparative Literature Core",
+                  "BA Project"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Committee on African American Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BS",
+                "degreeSections": [
+                  "General Education"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Computational Social Science",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Minor in Computational Social Science",
+                "degreeSections": [
+                  "Introduction to Computational Social Science",
+                  "Data Analysis Requirement",
+                  "Computational Methods Requirement",
+                  "Computational Social Science Electives"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Computer Science",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Introductory Sequence",
+                  "Theory Requirement",
+                  "Systems Requirement",
+                  "Machine Learning Requirement",
+                  "Specialization Requirement"
+                ]
+              },
+              {
+                "degreeTrack": "BS",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Introductory Sequence",
+                  "Theory Requirement",
+                  "Systems Requirement",
+                  "Machine Learning Requirement",
+                  "Specialization Requirement"
+                ]
+              },
+              {
+                "degreeTrack": "Computer Science Minor",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Introductory Sequence",
+                  "Theory Requirement",
+                  "Systems Requirement",
+                  "Machine Learning Requirement",
+                  "Specialization Requirement"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Creative Writing",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA in Creative Writing",
+                "degreeSections": [
+                  "Fundamentals in Creative Writing",
+                  "Beginning Workshop",
+                  "Background Electives",
+                  "Fundamentals Course"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in English and Creative Writing",
+                "degreeSections": [
+                  "Fundamentals in Creative Writing",
+                  "Beginning Workshop",
+                  "Background Electives",
+                  "Fundamentals Course"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Comparative Race and Ethnic Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Mathematics Fundamentals",
+                  "Introductory Calculus Sequence",
+                  "Linear Algebra Requirements"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Data Science",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "General Education",
+                  "Data Science Core",
+                  "Machine Learning",
+                  "Computer Science",
+                  "Mathematics and Statistics",
+                  "Electives",
+                  "Introductory Sequence",
+                  "Elective Sequence"
+                ]
+              },
+              {
+                "degreeTrack": "BS",
+                "degreeSections": [
+                  "General Education",
+                  "Data Science Core",
+                  "Machine Learning",
+                  "Computer Science",
+                  "Mathematics and Statistics",
+                  "Electives",
+                  "Introductory Sequence",
+                  "Elective Sequence"
+                ]
+              },
+              {
+                "degreeTrack": "Minor",
+                "degreeSections": [
+                  "General Education",
+                  "Data Science Core",
+                  "Machine Learning",
+                  "Computer Science",
+                  "Mathematics and Statistics",
+                  "Electives",
+                  "Introductory Sequence",
+                  "Elective Sequence"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Democracy Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Democracy Studies",
+                "degreeSections": [
+                  "Core Course",
+                  "Elective Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Digital Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Minor in Digital Studies of Language, Culture, and History",
+                "degreeSections": [
+                  "Introduction to Programming",
+                  "Introduction to Statistics",
+                  "Data Management for the Humanities",
+                  "Data Publication for the Humanities",
+                  "Digital Humanities Elective",
+                  "Approved Elective"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "East Asian Languages and Civilizations",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Language Requirement",
+                  "Junior Tutorial"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in East Asian Languages and Civilizations",
+                "degreeSections": [
+                  "Language Requirement",
+                  "Junior Tutorial"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Economics",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA in Economics: Standard Track",
+                "degreeSections": [
+                  "Fundamentals",
+                  "Core Curriculum",
+                  "Empirical Methods",
+                  "Economic Policy",
+                  "Electives"
+                ]
+              },
+              {
+                "degreeTrack": "BA in Economics with Specialization in Business Economics",
+                "degreeSections": [
+                  "Electives",
+                  "Core",
+                  "Methods",
+                  "Empirical Analysis",
+                  "Perspectives"
+                ]
+              },
+              {
+                "degreeTrack": "BA in Economics with Specialization in Data Science",
+                "degreeSections": [
+                  "Fundamentals",
+                  "Core Curriculum",
+                  "Empirical Methods",
+                  "Economic Policy",
+                  "Electives",
+                  "Core",
+                  "Methods",
+                  "Empirical Analysis",
+                  "Perspectives",
+                  "Data Science Core"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Education and Society",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Minor in Education and Society",
+                "degreeSections": [
+                  "Core Methods Course",
+                  "Alternative Methods Courses for CHDV Majors",
+                  "Approved Electives"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "English Language and Literature",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Language Requirement",
+                  "CRWR Workshop Courses",
+                  "CRWR or ENGL Electives",
+                  "Thesis/Major Projects Workshop"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in English and Creative Writing",
+                "degreeSections": [
+                  "Language Requirement",
+                  "CRWR Workshop Courses",
+                  "CRWR or ENGL Electives",
+                  "Thesis/Major Projects Workshop"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Environmental Science",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BS",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Major Requirements",
+                  "Elective Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Environmental Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Foundational and Methodological Course Requirements",
+                  "Environmental Track with BA Thesis Requirements",
+                  "Environmental Track with BA Capstone Requirements",
+                  "Urban Track with BA Thesis Requirements",
+                  "Urban Track with BA Capstone Requirements",
+                  "Requirements for Both Minor Tracks"
+                ]
+              },
+              {
+                "degreeTrack": "Environmental and Urban Studies Minor",
+                "degreeSections": [
+                  "Foundational and Methodological Course Requirements",
+                  "Environmental Track with BA Thesis Requirements",
+                  "Environmental Track with BA Capstone Requirements",
+                  "Urban Track with BA Thesis Requirements",
+                  "Urban Track with BA Capstone Requirements",
+                  "Requirements for Both Minor Tracks"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Committee on Geographical Sciences",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Foundational and Methodological Requirements",
+                  "Urban Environmental Studies Track—Thesis Requirements",
+                  "Urban Environmental Studies Track—Capstone Requirements"
+                ]
+              },
+              {
+                "degreeTrack": "Minor",
+                "degreeSections": [
+                  "Foundational and Methodological Requirements",
+                  "Urban Environmental Studies Track—Thesis Requirements",
+                  "Urban Environmental Studies Track—Capstone Requirements"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Fundamentals Issues and Texts",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Gateway Course",
+                  "Supporting Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Gender Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Foundations Course",
+                  "Theories of Sexuality and Gender",
+                  "BA Seminar or Additional GNSE Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Gender and Sexuality Studies",
+                "degreeSections": [
+                  "Foundations Course",
+                  "Theories of Sexuality and Gender",
+                  "BA Seminar or Additional GNSE Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Geographical Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Minor in Geographic Information Science",
+                "degreeSections": [
+                  "Prerequisites",
+                  "Core Methods Courses",
+                  "Elective Course"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Geophysical Sciences",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "General Education Chemistry",
+                  "General Education Mathematics",
+                  "General Education Biology",
+                  "Core Geophysical Sciences",
+                  "Advanced Chemistry",
+                  "Physics Sequence",
+                  "Mathematics Elective",
+                  "Computational Sciences Elective",
+                  "Geophysical Sciences Electives"
+                ]
+              },
+              {
+                "degreeTrack": "BS",
+                "degreeSections": [
+                  "General Education Chemistry",
+                  "General Education Mathematics",
+                  "General Education Biology",
+                  "Core Geophysical Sciences",
+                  "Advanced Chemistry",
+                  "Physics Sequence",
+                  "Mathematics Elective",
+                  "Computational Sciences Elective",
+                  "Geophysical Sciences Electives"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Germanic Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA in Germanic Studies",
+                "degreeSections": [
+                  "Concentration in Literature and Culture",
+                  "Concentration in Comparative Germanics",
+                  "Third-Year German Courses",
+                  "German Literature and Culture Courses",
+                  "Business German Courses",
+                  "Economics Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Germanic Studies",
+                "degreeSections": [
+                  "Concentration in Literature and Culture",
+                  "Concentration in Comparative Germanics",
+                  "Third-Year German Courses",
+                  "German Literature and Culture Courses",
+                  "Business German Courses",
+                  "Economics Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Business German",
+                "degreeSections": [
+                  "Concentration in Literature and Culture",
+                  "Concentration in Comparative Germanics",
+                  "Third-Year German Courses",
+                  "German Literature and Culture Courses",
+                  "Business German Courses",
+                  "Economics Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Global Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Introductory Courses",
+                  "Methods Course",
+                  "Thematic Tracks",
+                  "BA Thesis Seminar I",
+                  "BA Thesis Seminar II"
+                ]
+              },
+              {
+                "degreeTrack": "BA with Honors",
+                "degreeSections": [
+                  "Introductory Courses",
+                  "Methods Course",
+                  "Thematic Tracks",
+                  "BA Thesis Seminar I",
+                  "BA Thesis Seminar II"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Health and Society",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Health and Society",
+                "degreeSections": [
+                  "Introduction to Health and Society",
+                  "Approved Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "History",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Major Field",
+                  "Historiography",
+                  "Thesis Track",
+                  "Capstone Track"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in History",
+                "degreeSections": [
+                  "Major Field",
+                  "Historiography",
+                  "Thesis Track",
+                  "Capstone Track"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "History Philosophy and Social Studies of Science and Medicine",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Biological Sciences Sequence",
+                  "Junior Seminar",
+                  "Bachelor's Thesis",
+                  "Bachelor's Thesis Workshop",
+                  "Concentration in History and Philosophy of Biology",
+                  "Concentration in History of Medicine and Medical Ethics"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in HIPS",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Biological Sciences Sequence",
+                  "Junior Seminar",
+                  "Bachelor's Thesis",
+                  "Bachelor's Thesis Workshop",
+                  "Concentration in History and Philosophy of Biology",
+                  "Concentration in History of Medicine and Medical Ethics"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Human Rights",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Core Courses",
+                  "Elective Courses",
+                  "Introductory Course"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Human Rights",
+                "degreeSections": [
+                  "Core Courses",
+                  "Elective Courses",
+                  "Introductory Course"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Inequality and Social Change",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Minor in Inequality, Social Problems, and Change",
+                "degreeSections": [
+                  "Foundation Course",
+                  "Elective Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Inquiry and Research in the Humanities",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Self-Designed Program of Humanistic Study",
+                  "Academic and Professional Writing",
+                  "Introduction to Humanistic Inquiry and Research Design",
+                  "Research Proposal Colloquium",
+                  "BA Thesis Writing Colloquium"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Jewish Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Language Requirement",
+                  "Jewish Civilization and Electives"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Jewish Studies",
+                "degreeSections": [
+                  "Language Requirement",
+                  "Jewish Civilization and Electives"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Latin American Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Prerequisite: Introduction to Latin American Civilization",
+                  "BA Capstone Project and BA Colloquium"
+                ]
+              },
+              {
+                "degreeTrack": "Minor",
+                "degreeSections": [
+                  "Prerequisite: Introduction to Latin American Civilization",
+                  "BA Capstone Project and BA Colloquium"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Law Letters and Society",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Core LLSO Courses",
+                  "Junior Colloquium",
+                  "BA Seminar and Thesis"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Linguistics",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Core Linguistics Courses",
+                  "Non-Indo-European Language Requirement"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Linguistics",
+                "degreeSections": [
+                  "Core Linguistics Courses",
+                  "Non-Indo-European Language Requirement"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Mathematics",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Core Mathematics Courses",
+                  "BA Specific Requirements",
+                  "Applied Mathematics Core",
+                  "Economics Specialization",
+                  "Approved Mathematics Electives",
+                  "PSCD Electives"
+                ]
+              },
+              {
+                "degreeTrack": "BS",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Core Mathematics Courses",
+                  "BA Specific Requirements",
+                  "Applied Mathematics Core",
+                  "Economics Specialization",
+                  "Approved Mathematics Electives",
+                  "PSCD Electives"
+                ]
+              },
+              {
+                "degreeTrack": "BS in Applied Mathematics",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Core Mathematics Courses",
+                  "BA Specific Requirements",
+                  "Applied Mathematics Core",
+                  "Economics Specialization",
+                  "Approved Mathematics Electives",
+                  "PSCD Electives"
+                ]
+              },
+              {
+                "degreeTrack": "BS in Mathematics with Specialization in Economics",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Core Mathematics Courses",
+                  "BA Specific Requirements",
+                  "Applied Mathematics Core",
+                  "Economics Specialization",
+                  "Approved Mathematics Electives",
+                  "PSCD Electives"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Mathematics",
+                "degreeSections": [
+                  "General Education Requirements",
+                  "Core Mathematics Courses",
+                  "BA Specific Requirements",
+                  "Applied Mathematics Core",
+                  "Economics Specialization",
+                  "Approved Mathematics Electives",
+                  "PSCD Electives"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Media Arts and Design",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Major in Media Arts and Design",
+                "degreeSections": [
+                  "Media Theory Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Media Arts and Design",
+                "degreeSections": [
+                  "Media Theory Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Medieval Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "History Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Medieval Studies",
+                "degreeSections": [
+                  "History Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Molecular Engineering",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BS in Molecular Engineering",
+                "degreeSections": [
+                  "General Education",
+                  "Major Requirements",
+                  "Bioengineering Track",
+                  "Chemical Engineering Track",
+                  "Quantum Engineering Track",
+                  "Minor in Quantum Information Science",
+                  "Minor in Molecular, Cellular, and Tissue Engineering",
+                  "Minor in Immunoengineering",
+                  "Minor in Systems Bioengineering",
+                  "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+                  "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+                  "Minor in Computational Molecular Engineering",
+                  "Minor in Molecular Engineering",
+                  "Minor in Molecular Engineering Technology and Innovation"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Quantum Information Science",
+                "degreeSections": [
+                  "General Education",
+                  "Major Requirements",
+                  "Bioengineering Track",
+                  "Chemical Engineering Track",
+                  "Quantum Engineering Track",
+                  "Minor in Quantum Information Science",
+                  "Minor in Molecular, Cellular, and Tissue Engineering",
+                  "Minor in Immunoengineering",
+                  "Minor in Systems Bioengineering",
+                  "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+                  "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+                  "Minor in Computational Molecular Engineering",
+                  "Minor in Molecular Engineering",
+                  "Minor in Molecular Engineering Technology and Innovation"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Molecular, Cellular, and Tissue Engineering",
+                "degreeSections": [
+                  "General Education",
+                  "Major Requirements",
+                  "Bioengineering Track",
+                  "Chemical Engineering Track",
+                  "Quantum Engineering Track",
+                  "Minor in Quantum Information Science",
+                  "Minor in Molecular, Cellular, and Tissue Engineering",
+                  "Minor in Immunoengineering",
+                  "Minor in Systems Bioengineering",
+                  "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+                  "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+                  "Minor in Computational Molecular Engineering",
+                  "Minor in Molecular Engineering",
+                  "Minor in Molecular Engineering Technology and Innovation"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Immunoengineering",
+                "degreeSections": [
+                  "General Education",
+                  "Major Requirements",
+                  "Bioengineering Track",
+                  "Chemical Engineering Track",
+                  "Quantum Engineering Track",
+                  "Minor in Quantum Information Science",
+                  "Minor in Molecular, Cellular, and Tissue Engineering",
+                  "Minor in Immunoengineering",
+                  "Minor in Systems Bioengineering",
+                  "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+                  "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+                  "Minor in Computational Molecular Engineering",
+                  "Minor in Molecular Engineering",
+                  "Minor in Molecular Engineering Technology and Innovation"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Systems Bioengineering",
+                "degreeSections": [
+                  "General Education",
+                  "Major Requirements",
+                  "Bioengineering Track",
+                  "Chemical Engineering Track",
+                  "Quantum Engineering Track",
+                  "Minor in Quantum Information Science",
+                  "Minor in Molecular, Cellular, and Tissue Engineering",
+                  "Minor in Immunoengineering",
+                  "Minor in Systems Bioengineering",
+                  "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+                  "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+                  "Minor in Computational Molecular Engineering",
+                  "Minor in Molecular Engineering",
+                  "Minor in Molecular Engineering Technology and Innovation"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+                "degreeSections": [
+                  "General Education",
+                  "Major Requirements",
+                  "Bioengineering Track",
+                  "Chemical Engineering Track",
+                  "Quantum Engineering Track",
+                  "Minor in Quantum Information Science",
+                  "Minor in Molecular, Cellular, and Tissue Engineering",
+                  "Minor in Immunoengineering",
+                  "Minor in Systems Bioengineering",
+                  "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+                  "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+                  "Minor in Computational Molecular Engineering",
+                  "Minor in Molecular Engineering",
+                  "Minor in Molecular Engineering Technology and Innovation"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+                "degreeSections": [
+                  "General Education",
+                  "Major Requirements",
+                  "Bioengineering Track",
+                  "Chemical Engineering Track",
+                  "Quantum Engineering Track",
+                  "Minor in Quantum Information Science",
+                  "Minor in Molecular, Cellular, and Tissue Engineering",
+                  "Minor in Immunoengineering",
+                  "Minor in Systems Bioengineering",
+                  "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+                  "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+                  "Minor in Computational Molecular Engineering",
+                  "Minor in Molecular Engineering",
+                  "Minor in Molecular Engineering Technology and Innovation"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Computational Molecular Engineering",
+                "degreeSections": [
+                  "General Education",
+                  "Major Requirements",
+                  "Bioengineering Track",
+                  "Chemical Engineering Track",
+                  "Quantum Engineering Track",
+                  "Minor in Quantum Information Science",
+                  "Minor in Molecular, Cellular, and Tissue Engineering",
+                  "Minor in Immunoengineering",
+                  "Minor in Systems Bioengineering",
+                  "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+                  "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+                  "Minor in Computational Molecular Engineering",
+                  "Minor in Molecular Engineering",
+                  "Minor in Molecular Engineering Technology and Innovation"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Molecular Engineering",
+                "degreeSections": [
+                  "General Education",
+                  "Major Requirements",
+                  "Bioengineering Track",
+                  "Chemical Engineering Track",
+                  "Quantum Engineering Track",
+                  "Minor in Quantum Information Science",
+                  "Minor in Molecular, Cellular, and Tissue Engineering",
+                  "Minor in Immunoengineering",
+                  "Minor in Systems Bioengineering",
+                  "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+                  "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+                  "Minor in Computational Molecular Engineering",
+                  "Minor in Molecular Engineering",
+                  "Minor in Molecular Engineering Technology and Innovation"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Molecular Engineering Technology and Innovation",
+                "degreeSections": [
+                  "General Education",
+                  "Major Requirements",
+                  "Bioengineering Track",
+                  "Chemical Engineering Track",
+                  "Quantum Engineering Track",
+                  "Minor in Quantum Information Science",
+                  "Minor in Molecular, Cellular, and Tissue Engineering",
+                  "Minor in Immunoengineering",
+                  "Minor in Systems Bioengineering",
+                  "Minor in Molecular Science and Engineering of Polymers and Soft Materials",
+                  "Minor in Molecular Engineering of Sustainable Energy and Water Resources",
+                  "Minor in Computational Molecular Engineering",
+                  "Minor in Molecular Engineering",
+                  "Minor in Molecular Engineering Technology and Innovation"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Music",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Analysis and Techniques",
+                  "Histories and Cultures",
+                  "Creative Practices",
+                  "Electives"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Music",
+                "degreeSections": [
+                  "Analysis and Techniques",
+                  "Histories and Cultures",
+                  "Creative Practices",
+                  "Electives"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Near Eastern Languages and Civilizations",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Civilization Sequences",
+                  "Near Eastern Language Courses",
+                  "Elective Courses",
+                  "Research Colloquium",
+                  "Archaeology Track"
+                ]
+              },
+              {
+                "degreeTrack": "Minor",
+                "degreeSections": [
+                  "Civilization Sequences",
+                  "Near Eastern Language Courses",
+                  "Elective Courses",
+                  "Research Colloquium",
+                  "Archaeology Track"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Neuroscience",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Neuroscience Core Courses",
+                  "Neuroscience Electives",
+                  "Neuroscience or Neuroscience-related Electives",
+                  "Mathematical Methods for Biological Sciences",
+                  "Computational Neuroscience Courses"
+                ]
+              },
+              {
+                "degreeTrack": "BS",
+                "degreeSections": [
+                  "Neuroscience Core Courses",
+                  "Neuroscience Electives",
+                  "Neuroscience or Neuroscience-related Electives",
+                  "Mathematical Methods for Biological Sciences",
+                  "Computational Neuroscience Courses"
+                ]
+              },
+              {
+                "degreeTrack": "BS with Honors",
+                "degreeSections": [
+                  "Neuroscience Core Courses",
+                  "Neuroscience Electives",
+                  "Neuroscience or Neuroscience-related Electives",
+                  "Mathematical Methods for Biological Sciences",
+                  "Computational Neuroscience Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Neuroscience",
+                "degreeSections": [
+                  "Neuroscience Core Courses",
+                  "Neuroscience Electives",
+                  "Neuroscience or Neuroscience-related Electives",
+                  "Mathematical Methods for Biological Sciences",
+                  "Computational Neuroscience Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Computational Neuroscience",
+                "degreeSections": [
+                  "Neuroscience Core Courses",
+                  "Neuroscience Electives",
+                  "Neuroscience or Neuroscience-related Electives",
+                  "Mathematical Methods for Biological Sciences",
+                  "Computational Neuroscience Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Norwegian Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Minor in Norwegian Studies",
+                "degreeSections": [
+                  "First-Year Norwegian Sequence",
+                  "Elective Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Philosophy",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "History of Philosophy Sequence",
+                  "Logic Requirement",
+                  "Field Distribution",
+                  "Junior and Senior Tutorials",
+                  "Intensive Track Seminar",
+                  "Senior Seminar"
+                ]
+              },
+              {
+                "degreeTrack": "BA Intensive Track",
+                "degreeSections": [
+                  "History of Philosophy Sequence",
+                  "Logic Requirement",
+                  "Field Distribution",
+                  "Junior and Senior Tutorials",
+                  "Intensive Track Seminar",
+                  "Senior Seminar"
+                ]
+              },
+              {
+                "degreeTrack": "BA Philosophy and Allied Fields",
+                "degreeSections": [
+                  "History of Philosophy Sequence",
+                  "Logic Requirement",
+                  "Field Distribution",
+                  "Junior and Senior Tutorials",
+                  "Intensive Track Seminar",
+                  "Senior Seminar"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Philosophy",
+                "degreeSections": [
+                  "History of Philosophy Sequence",
+                  "Logic Requirement",
+                  "Field Distribution",
+                  "Junior and Senior Tutorials",
+                  "Intensive Track Seminar",
+                  "Senior Seminar"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Physics",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Introductory Physics Sequence",
+                  "Introductory Mathematics Sequence",
+                  "Advanced Physics Core",
+                  "Mathematical Methods or Analysis",
+                  "Intermediate Mechanics",
+                  "Experimental Physics",
+                  "Intermediate Electricity and Magnetism",
+                  "Quantum Mechanics",
+                  "Statistical and Thermal Physics",
+                  "Physics Electives"
+                ]
+              },
+              {
+                "degreeTrack": "BS",
+                "degreeSections": [
+                  "Introductory Physics Sequence",
+                  "Introductory Mathematics Sequence",
+                  "Advanced Physics Core",
+                  "Mathematical Methods or Analysis",
+                  "Intermediate Mechanics",
+                  "Experimental Physics",
+                  "Intermediate Electricity and Magnetism",
+                  "Quantum Mechanics",
+                  "Statistical and Thermal Physics",
+                  "Physics Electives"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Physics",
+                "degreeSections": [
+                  "Introductory Physics Sequence",
+                  "Introductory Mathematics Sequence",
+                  "Advanced Physics Core",
+                  "Mathematical Methods or Analysis",
+                  "Intermediate Mechanics",
+                  "Experimental Physics",
+                  "Intermediate Electricity and Magnetism",
+                  "Quantum Mechanics",
+                  "Statistical and Thermal Physics",
+                  "Physics Electives"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Political Science",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Introductory Political Science Courses",
+                  "Research Methods Requirement",
+                  "Political Science Electives",
+                  "Writing Requirement: BA Thesis Option"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Psychology",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Statistics/Methodology Sequence",
+                  "Breadth Requirement",
+                  "Additional Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Public Policy Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Calculus and Statistics Requirements",
+                  "Core Public Policy Courses",
+                  "Methods and Windows Courses",
+                  "Area of Specialization",
+                  "Capstone Requirement"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Quantitative Social Analysis",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Minor in Quantitative Social Analysis",
+                "degreeSections": [
+                  "Basic Skills",
+                  "Advanced Skills",
+                  "Quantitative Applications"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Race Development and Inequality",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Critical Concepts",
+                  "Foundational Courses",
+                  "BA Thesis/Capstone Project"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Race, Diaspora, and Indigeneity",
+                "degreeSections": [
+                  "Critical Concepts",
+                  "Foundational Courses",
+                  "BA Thesis/Capstone Project"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Religious Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Introduction to Religious Studies",
+                  "Gateway Course Requirement",
+                  "BA Research Seminar I",
+                  "BA Research Seminar II",
+                  "Historical Studies Course",
+                  "Cultural Studies Course"
+                ]
+              },
+              {
+                "degreeTrack": "BA Research Track",
+                "degreeSections": [
+                  "Introduction to Religious Studies",
+                  "Gateway Course Requirement",
+                  "BA Research Seminar I",
+                  "BA Research Seminar II",
+                  "Historical Studies Course",
+                  "Cultural Studies Course"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Religious Studies",
+                "degreeSections": [
+                  "Introduction to Religious Studies",
+                  "Gateway Course Requirement",
+                  "BA Research Seminar I",
+                  "BA Research Seminar II",
+                  "Historical Studies Course",
+                  "Cultural Studies Course"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Renaissance Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Minor in Renaissance Studies",
+                "degreeSections": [
+                  "Three RENS courses representing three distribution areas"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Romance Languages and Literatures",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA in French and Francophone Studies",
+                "degreeSections": [
+                  "Introductory Course Requirement",
+                  "Advanced Language, Literature, or Culture Courses",
+                  "Core Italian Course",
+                  "Upper-Level Italian Courses",
+                  "Advanced Language Courses",
+                  "Survey Courses",
+                  "Additional Literature and Culture Courses",
+                  "Advanced Language Courses in Two Romance Languages"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in French and Francophone Studies",
+                "degreeSections": [
+                  "Introductory Course Requirement",
+                  "Advanced Language, Literature, or Culture Courses",
+                  "Core Italian Course",
+                  "Upper-Level Italian Courses",
+                  "Advanced Language Courses",
+                  "Survey Courses",
+                  "Additional Literature and Culture Courses",
+                  "Advanced Language Courses in Two Romance Languages"
+                ]
+              },
+              {
+                "degreeTrack": "BA in Italian Studies",
+                "degreeSections": [
+                  "Introductory Course Requirement",
+                  "Advanced Language, Literature, or Culture Courses",
+                  "Core Italian Course",
+                  "Upper-Level Italian Courses",
+                  "Advanced Language Courses",
+                  "Survey Courses",
+                  "Additional Literature and Culture Courses",
+                  "Advanced Language Courses in Two Romance Languages"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Italian Studies",
+                "degreeSections": [
+                  "Introductory Course Requirement",
+                  "Advanced Language, Literature, or Culture Courses",
+                  "Core Italian Course",
+                  "Upper-Level Italian Courses",
+                  "Advanced Language Courses",
+                  "Survey Courses",
+                  "Additional Literature and Culture Courses",
+                  "Advanced Language Courses in Two Romance Languages"
+                ]
+              },
+              {
+                "degreeTrack": "BA in Spanish Language, Literature, and Culture",
+                "degreeSections": [
+                  "Introductory Course Requirement",
+                  "Advanced Language, Literature, or Culture Courses",
+                  "Core Italian Course",
+                  "Upper-Level Italian Courses",
+                  "Advanced Language Courses",
+                  "Survey Courses",
+                  "Additional Literature and Culture Courses",
+                  "Advanced Language Courses in Two Romance Languages"
+                ]
+              },
+              {
+                "degreeTrack": "BA in Latin American and Iberian Languages, Literatures, and Cultures",
+                "degreeSections": [
+                  "Introductory Course Requirement",
+                  "Advanced Language, Literature, or Culture Courses",
+                  "Core Italian Course",
+                  "Upper-Level Italian Courses",
+                  "Advanced Language Courses",
+                  "Survey Courses",
+                  "Additional Literature and Culture Courses",
+                  "Advanced Language Courses in Two Romance Languages"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Catalan",
+                "degreeSections": [
+                  "Introductory Course Requirement",
+                  "Advanced Language, Literature, or Culture Courses",
+                  "Core Italian Course",
+                  "Upper-Level Italian Courses",
+                  "Advanced Language Courses",
+                  "Survey Courses",
+                  "Additional Literature and Culture Courses",
+                  "Advanced Language Courses in Two Romance Languages"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Portuguese",
+                "degreeSections": [
+                  "Introductory Course Requirement",
+                  "Advanced Language, Literature, or Culture Courses",
+                  "Core Italian Course",
+                  "Upper-Level Italian Courses",
+                  "Advanced Language Courses",
+                  "Survey Courses",
+                  "Additional Literature and Culture Courses",
+                  "Advanced Language Courses in Two Romance Languages"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Spanish",
+                "degreeSections": [
+                  "Introductory Course Requirement",
+                  "Advanced Language, Literature, or Culture Courses",
+                  "Core Italian Course",
+                  "Upper-Level Italian Courses",
+                  "Advanced Language Courses",
+                  "Survey Courses",
+                  "Additional Literature and Culture Courses",
+                  "Advanced Language Courses in Two Romance Languages"
+                ]
+              },
+              {
+                "degreeTrack": "BA in Romance Languages, Literatures, and Cultures (Multiple Languages)",
+                "degreeSections": [
+                  "Introductory Course Requirement",
+                  "Advanced Language, Literature, or Culture Courses",
+                  "Core Italian Course",
+                  "Upper-Level Italian Courses",
+                  "Advanced Language Courses",
+                  "Survey Courses",
+                  "Additional Literature and Culture Courses",
+                  "Advanced Language Courses in Two Romance Languages"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Romance Languages, Literatures, and Cultures (Multiple Languages)",
+                "degreeSections": [
+                  "Introductory Course Requirement",
+                  "Advanced Language, Literature, or Culture Courses",
+                  "Core Italian Course",
+                  "Upper-Level Italian Courses",
+                  "Advanced Language Courses",
+                  "Survey Courses",
+                  "Additional Literature and Culture Courses",
+                  "Advanced Language Courses in Two Romance Languages"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Slavic Languages and Literatures",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA in Russian and East European Studies",
+                "degreeSections": [
+                  "Language Requirement"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Russian and East European Studies",
+                "degreeSections": [
+                  "Language Requirement"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Science Communication and Public Discourse",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Minor in Science Communication and Public Discourse",
+                "degreeSections": [
+                  "Science Communication and Public Engagement",
+                  "Additional Science Communication Courses",
+                  "Scientific Skills Course",
+                  "Electives"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Sociology",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Introduction to Sociology",
+                  "Sociological Theory",
+                  "Quantitative Methods",
+                  "Qualitative Methods",
+                  "Logic of Social Inquiry",
+                  "Four Courses in Sociology",
+                  "BA Project (optional)"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "South Asian Languages and Civilizations",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Civilization Studies Sequence",
+                  "Courses Related to South Asia",
+                  "Additional Courses Related to South Asia"
+                ]
+              },
+              {
+                "degreeTrack": "Minor",
+                "degreeSections": [
+                  "Civilization Studies Sequence",
+                  "Courses Related to South Asia",
+                  "Additional Courses Related to South Asia"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Statistics",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "General Education",
+                  "Prescribed Mathematics Courses",
+                  "Prescribed Statistics Courses",
+                  "Computer Science Requirement",
+                  "Electives",
+                  "Core Courses"
+                ]
+              },
+              {
+                "degreeTrack": "BS",
+                "degreeSections": [
+                  "General Education",
+                  "Prescribed Mathematics Courses",
+                  "Prescribed Statistics Courses",
+                  "Computer Science Requirement",
+                  "Electives",
+                  "Core Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Statistics",
+                "degreeSections": [
+                  "General Education",
+                  "Prescribed Mathematics Courses",
+                  "Prescribed Statistics Courses",
+                  "Computer Science Requirement",
+                  "Electives",
+                  "Core Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Theater and Performance Studies",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Introduction to Theater & Performance Studies",
+                  "Theory and Analysis Courses",
+                  "Theater and Performance Studies BA Colloquium"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Theater and Performance Studies",
+                "degreeSections": [
+                  "Introduction to Theater & Performance Studies",
+                  "Theory and Analysis Courses",
+                  "Theater and Performance Studies BA Colloquium"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Visual Arts",
+            "degreeTracks": [
+              {
+                "degreeTrack": "BA",
+                "degreeSections": [
+                  "Introductory Visual Language",
+                  "Studio Project Series",
+                  "Advanced Studio Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Studio Track",
+                "degreeSections": [
+                  "Introductory Visual Language",
+                  "Studio Project Series",
+                  "Advanced Studio Courses"
+                ]
+              },
+              {
+                "degreeTrack": "Minor in Visual Arts",
+                "degreeSections": [
+                  "Introductory Visual Language",
+                  "Studio Project Series",
+                  "Advanced Studio Courses"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Yiddish",
+            "degreeTracks": [
+              {
+                "degreeTrack": "Minor in Yiddish Studies",
+                "degreeSections": [
+                  "Elementary Yiddish Sequence",
+                  "Additional Yiddish Courses"
+                ]
+              }
+            ]
+          }
+        ]
